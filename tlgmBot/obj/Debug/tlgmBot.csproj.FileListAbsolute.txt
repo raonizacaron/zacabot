@@ -1,0 +1,27 @@
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\tlgmBot.exe.config
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\tlgmBot.exe
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\tlgmBot.pdb
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\Telegram.Bot.dll
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\bin\Debug\Telegram.Bot.xml
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\obj\Debug\tlgmBot.csprojResolveAssemblyReference.cache
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\obj\Debug\tlgmBot.csproj.tlgmBot.exe.config
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\obj\Debug\tlgmBot.exe
+c:\users\u0167843\documents\visual studio 2015\Projects\tlgmBot\tlgmBot\obj\Debug\tlgmBot.pdb
+C:\Users\u0167843\Source\Repos\DanadoBot\src\tlgmBot\bin\Debug\tlgmBot.exe.config
+C:\Users\u0167843\Source\Repos\DanadoBot\src\tlgmBot\obj\Debug\tlgmBot.exe
+C:\Users\u0167843\Source\Repos\DanadoBot\src\tlgmBot\obj\Debug\tlgmBot.pdb
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\tlgmBot.exe.config
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\tlgmBot.exe
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\tlgmBot.pdb
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\Newtonsoft.Json.dll
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\System.Net.Http.Formatting.dll
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\Telegram.Bot.dll
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\Newtonsoft.Json.xml
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\System.Net.Http.Formatting.xml
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\bin\Debug\Telegram.Bot.xml
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\obj\Debug\tlgmBot.exe
+E:\Saves & Instaladores\Programação\Projetos\TelegramBot\tlgmBot\obj\Debug\tlgmBot.pdb
