@@ -39,7 +39,7 @@ Texto Contendo:
 
         static async Task Run()
         {
-            var Bot = new Api("209187251:AAFDYKLp6Ly3zeTAnP4mbYcLhkg_8Z0gUJo");
+            var Bot = new Api("");
             var me = await Bot.GetMe();
             var offset = 0;
 
@@ -64,6 +64,8 @@ Texto Contendo:
                                     {
                                         if (comandos.Contains(update.Message.Text.ToLower()))
                                         {
+                                            Console.WriteLine("Recebido: " + update.Message.Text);
+
                                             await Bot.SendChatAction(update.Message.Chat.Id, ChatAction.Typing);
                                             await Task.Delay(2000);
                                         }
@@ -146,6 +148,7 @@ Texto Contendo:
                     }
 
                     await Task.Delay(1000);
+                    Console.WriteLine("Notificando atividade.");
                 }
             }
             else
